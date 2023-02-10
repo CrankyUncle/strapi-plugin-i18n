@@ -442,8 +442,12 @@
     "name":"English (en)"
   },
   {
-    "code":"en-AS",
-    "name":"English (American Samoa) (en-AS)"
+    "code": "en-AS",
+    "name": "English (American Samoa) (en-AS)"
+  },
+  {
+    "code": "en-KE",
+    "name": "English (Kenya) (en-KE)"
   },
   {
     "code":"en-AU",
